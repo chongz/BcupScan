@@ -1,0 +1,16 @@
+//
+//  BcupScan.pch
+//  BcupScan
+//
+//  Created by zhangchong on 12/11/15.
+//  Copyright © 2015 com.infohold. All rights reserved.
+//
+
+#ifndef BcupScan_pch
+#define BcupScan_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif /* BcupScan_pch */

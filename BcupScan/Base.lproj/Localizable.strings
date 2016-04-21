@@ -1,0 +1,147 @@
+/* 
+  Localizable.strings
+  BcupScan
+
+  Created by zhangchong on 12/11/15.
+  Copyright © 2015 com.infohold. All rights reserved.
+*/
+
+/*common*/
+"Ok" = "确定";
+"Cancel" = "取消";
+"Add" = "增加";
+"Update" = "更新";
+
+/*itembar*/
+"Flavors"="经典";
+"Create"="定制";
+"Gallery"="喜爱";
+"Locations"="位置";
+"Mine"="我的";
+
+/*personal*/
+"Login" = "登录";
+"LogOut" = "退出登录";
+"Register" = "注册";
+"Collect" = "收藏夹";
+"MyOrder" = "我的订单";
+"ViewAllOrders" = "查看我的订单";
+"AddressManagement" = "地址管理";
+"Scan" = "扫描";
+"PhoneNum" = "手机号";
+"ValidCode" = "验证码";
+"CreatePasswd" = "创建密码";
+"SendValidCode" = "发送验证码";
+"ReSendValidCode" = "重新发送";
+"ValidCodeResendTime" = "秒";
+"UserPrivacy" = "我已阅读并同意《用户注册协议》";
+"UserPrivacyLink" = "《用户注册协议》";
+"UserPrivacyTitle" = "用户注册协议";
+"OtherRegister" = "选择其它方式注册";
+"Passwd" = "密码";
+"NewUserRegist" = "新用户注册";
+"ForgotPasswd" = "忘记密码?";
+"OtherLogin" = "选择其它方式登录";
+"NewAddress" = "新增";
+"DefaultAddress" = "默认地址";
+"SetDefaultAddress" = "设置为默认地址";
+"Edit" = "编辑";
+"Delete" = "删除";
+"Message" = "提示";
+"DeleteAddress" = "删除此条收货地址？";
+"EditAddress" = "编辑地址";
+"AddAddress" = "增加新地址";
+"Name"="姓名";
+"Area" = "地区";
+"Street" = "街道";
+"Postcode" = "邮编";
+"Phone" = "电话";
+"RetrievePasswd" = "找回密码";
+"NoOrders" = "您暂时没有订单";
+"NoOrderPay" = "目前没有订单需要付款";
+"NoOrderSend" = "目前没有待发货订单";
+"NoOrderReceive" = "目前没有待收货订单";
+"NoOrderEvaluate" = "目前没有已完成订单";
+"Tip" = "提示";
+"WechatNotInstalled" = "抱歉，您尚未安装微信。";
+"AlipayNotInstalled" = "抱歉，您尚未安装支付宝。";
+"ShoppingCart" = "购物车";
+"PersonalInfo" = "个人信息";
+"NickName" = "昵称";
+"Sex" = "性别";
+"BirthDay" = "生日";
+"MemLevel" = "会员级别";
+"PhotoGallery" = "从相册选择";
+"TakePhoto" = "拍 照";
+
+"GoForAWalk"="随便逛逛";
+"OrderPay"="待付款";
+"OrderSend" = "待发货";
+"OrderReceive" = "待收货";
+"OrderEvaluate" = "待评价";
+"OrderEvaluateDone" = "已评价";
+
+"Cake"="蛋糕";
+"Icing"="糖衣";
+"Topping"="装饰";
+"Stuffing"="内馅";
+
+"ADD_TO_GALLERY" = "移入收藏夹";
+"Share" = "分享";
+"PLACE_AN_ORDER" = "直接购买";
+"ADD_TO_SHOPPING_CART" = "添加到购物车";
+
+//gallery
+
+
+
+"CupcakeName" = "蛋糕名字";
+"YourFirstName" = "您的名字";
+"YourEmail" = "您的邮箱地址";
+"YourPhone" = "您的电话";
+"YourAddress" = "您的地址";
+"PostToPublicGallery" = "发布到公共收藏夹";
+"Terms" = "服务条款";
+"AboutUs" = "关于我们";
+"Privacy" = "隐私策略";
+"TermsPrivacy" = "提交表单前，您已经同意我们的服务条款和隐私策略";
+"Cupcakeadded" = "添加到收藏夹成功";
+
+//add gallery error
+"CupcakeNameEmpty" = "未填写蛋糕名字";
+"YourFirstNameEmpty" = "未填您的名字";
+"YourEmailEmpty" = "未填写您的邮箱地址";
+"YourEmailNotValid" = "您的邮箱地址不合法";
+"YourPhoneEmpty" = "未填写您的电话";
+"YourPhoneNotValid" = "您的电话号码不合法";
+"YourAddressEmpty" = "未填写您的地址";
+
+"CupcakeExist" = "蛋糕名称 %@ 已经存在. 是否覆盖?";
+"Submitting" = "提交数据";
+"Wait" = "请等待";
+"ConnectivityFailure" = "提交蛋糕收藏数据失败，请重试！";
+
+//purchase
+"Purchase_Cupcake" = "购买蛋糕";
+"CUSTOM_CUPCAKE" = "定制蛋糕";
+"TOTAL_PER_CUPCAKE" = "蛋糕单价";
+"TOTAL_CUPCAKE" = "蛋糕数量";
+"TOTAL_CUPCAKE_MIN" = "(最少数量:6)";
+"TOTAL_PRICE" = "总价";
+"EMPTY_PRICE" = "-";
+
+"Buy" = "购买";
+"Purchase" = "支付";
+"Purchase2" = "结算";
+"Pay" = "付款";
+"Finish" = "完成";
+"Done" = "完成";
+"BakeTimeSplash" = "配送剩余时间";
+
+"OK" = "确定";
+"Cancel" = "取消";
+"Save" = "保存";
+
+//alert message
+"EMPTY_CUPCAKE_LIST" = "还没有定制蛋糕";
+"TOTAL_CUPCAKE_MIN_NUMBER" = "至少购买6个蛋糕";

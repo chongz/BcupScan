@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5ff1734e-6c85-4ef7-9988-b7df13911f5b",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5ff1734e-6c85-4ef7-9988-b7df13911f5b" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5ff1734e-6c85-4ef7-9988-b7df13911f5b" : 0,
+    "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A38D35C-B232-400D-9B4B-37B0616DE1B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5ff1734e-6c85-4ef7-9988-b7df13911f5b" : "Bcake\/",
+    "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E" : "Bcake\/trunk\/Bcup\/10%E5%BC%80%E5%8F%91%E5%BA%93\/03%E4%BB%A3%E7%A0%81\/BcupScan\/BcupScan\/thirdpart\/NSString-MD5\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BcupScan",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/Bcup\/10开发库\/03代码\/BcupScan\/BcupScan.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/218.25.139.95:10044\/Bcake",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5ff1734e-6c85-4ef7-9988-b7df13911f5b"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/H2CO3\/NSString-MD5.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3F650E3DCBE27AA6D44C605A3ED5E7EFE3B297E"
+    }
+  ]
+}
